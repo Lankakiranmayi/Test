@@ -13,3 +13,4 @@ for line in hand:
         numlist.append(num)
 print(len(numlist))
 print(sum(numlist))
+#py4e
